@@ -1,3 +1,8 @@
+'''
+Questo codice crea un file di log con nome basato sulla data e imposta una configurazione per registrare i messaggi,
+utile per tenere traccia dell'esecuzione del programma.
+'''
+
 import logging
 import os
 from datetime import datetime
