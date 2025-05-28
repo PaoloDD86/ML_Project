@@ -1,10 +1,9 @@
 # Questo codice si occupa di gestione degli oggetti (salvataggio/caricamento di modelli) e 
-# valutazione di modelli machine learning.
+# valutazione dei modelli ML.
 '''
 save_object: salva un oggetto su disco.
 load_object: carica un oggetto da disco.
 evaluate_models: esegue hyperparameter tuning e valutazione di più modelli, restituendo un confronto.
-È un codice utile in un progetto ML per l’automazione e il riutilizzo dei modelli.
 '''
 
 import os
